@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sefalana-blue: #003B7A;
+  --color-sefalana-blue-dark: #002955;
+  --color-sefalana-blue-light: #0056B3;
+  --color-sefalana-gold: #F5A623;
+  --color-sefalana-gold-dark: #D4891F;
+  --color-sefalana-green: #2E8B57;
+  --color-sefalana-green-light: #3DA06A;
+  --color-sefalana-red: #DC2626;
+  --color-sefalana-gray: #F5F7FA;
+  --color-sefalana-gray-dark: #6B7280;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+}
